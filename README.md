@@ -23,3 +23,5 @@ Once the chart is ready, the script proceeds to PDF report generation using the 
 This task highlights key programming skills including reading and processing data, performing group-wise calculations, visualizing results, and generating reports programmatically. It demonstrates how Python can be used to automate repetitive tasks like report creation, saving time and reducing errors. Additionally, this project introduces best practices such as separating data, charts, and reports, and using libraries that are widely adopted in the data science and analytics industry.
 
 Overall, Task 2 serves as a practical exercise in combining multiple Python libraries to solve a real-world problem. By the end of the task, users can generate a fully automated report that summarizes student performance, complete with visual charts and textual summaries, all in a single Python script. This task not only strengthens programming skills but also provides a tangible output that can be used in academic or professional contexts.
+
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/67dcffec-a60c-44d0-90f0-466d7141dd79" />
